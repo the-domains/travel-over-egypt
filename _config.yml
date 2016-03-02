@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.346846
+  lightness: 0.509009
+  rhythmicContrast: 0.493243
+  saturation: 0.584459
+cta: {}
+layout_spectrum: 0.4887870226748261
+name: 'Travel over Egypt '
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.8937880177765285
