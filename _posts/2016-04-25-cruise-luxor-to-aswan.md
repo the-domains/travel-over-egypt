@@ -1,7 +1,7 @@
 ---
-dateModified: '2016-05-04T04:13:48.101Z'
-datePublished: '2016-05-04T18:38:32.085Z'
-title: Cruise Luxor to Aswan.
+dateModified: '2016-05-04T19:39:11.482Z'
+datePublished: '2016-05-04T19:39:25.619Z'
+title: 'Cruise from Aswan to Luxor 3 nights 4 every Wednesday and Friday '
 hasPage: false
 inFeed: true
 inNav: false
@@ -13,6 +13,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Cruise Luxor to Aswan.
+# Cruise from Aswan to Luxor 3 nights 4 every Wednesday and Friday 
 
 * ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9feef0c3078f2f554839a15ba7ea09f22d6a2b83.jpg)
