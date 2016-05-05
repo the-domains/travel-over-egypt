@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-05-05T05:39:45.643Z'
+dateModified: '2016-05-05T05:41:54.192Z'
+datePublished: '2016-05-05T05:42:11.692Z'
 title: 'Tours & accommodation all over Egypt & beyond '
 hasPage: false
 inFeed: true
@@ -7,7 +8,6 @@ inNav: false
 description: ''
 author: []
 starred: false
-datePublished: '2016-05-05T05:40:50.774Z'
 sourcePath: _posts/2016-05-05-tours-and-accommodation-all-over-egypt-and-beyond.md
 _context: 'http://schema.org'
 _type: Article
