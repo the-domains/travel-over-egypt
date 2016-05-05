@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-05-05T14:15:58.806Z'
-datePublished: '2016-05-05T14:15:58.975Z'
+dateModified: '2016-05-05T14:17:22.444Z'
+datePublished: '2016-05-05T14:17:31.876Z'
 title: 'Tours and accommodation all over Egypt and beyond. '
 hasPage: false
 inFeed: true
@@ -13,6 +13,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2a1eff0-46c9-4ded-a2f2-a777fe1a6a98.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94ffd999-52c3-456f-a51f-8dc15eb2a331.gif)
 
 Tours and accommodation all over Egypt and beyond.
