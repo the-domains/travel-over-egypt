@@ -1,7 +1,7 @@
 ---
-dateModified: '2016-05-05T03:23:09.320Z'
-datePublished: '2016-05-05T03:23:23.002Z'
-title: 'for more information please contact:'
+dateModified: '2016-05-05T05:00:33.366Z'
+datePublished: '2016-05-05T05:00:44.727Z'
+title: 'For more information please contact:'
 hasPage: false
 inFeed: true
 inNav: false
@@ -13,9 +13,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# for more information please contact:
+# For more information please contact:
 
-00201100542030
+* 00201100542030
 
 Whatsapp and Viber
 
