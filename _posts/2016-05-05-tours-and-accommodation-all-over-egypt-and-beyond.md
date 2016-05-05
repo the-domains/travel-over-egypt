@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-05-05T14:16:43.128Z'
-datePublished: '2016-05-05T14:16:49.584Z'
+dateModified: '2016-05-05T14:18:02.083Z'
+datePublished: '2016-05-05T14:18:28.461Z'
 title: 'Tours and accommodation all over Egypt and beyond. '
 hasPage: false
 inFeed: true
