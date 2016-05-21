@@ -1,8 +1,9 @@
 ---
-dateModified: '2016-05-21T14:13:32.841Z'
-datePublished: '2016-05-21T14:13:56.814Z'
-description: 'Where to say and where to go in Egypt,We have multi choices for hotels and sightseeings all over Egypt and beyond,For example you need at least couple of days to visit the highlights of Cairo,day 1 to visit Giza Pyramids,the sphinx and Stepped Pyramid of Sakkarra and the complex of King DjDjoser and day 2 to visit the Egyptian museum and Saladin citadel,you can go to Luxor by plane or by train and recommend to take a cruise ship from Luxor to Aswan 4 nights 5 days where you can visit in Day 1 upon arrival Karnak and Luxor temples,day 2 you can go in hot air balloon ride in the west bank of Luxor then you can visit Valley of the Kings,temple of Queen Hatchsuit and Colossi of Memnon then the cruise sail to Edfu via Esna where we cross the lock then continue to Edfu,Day 3 you can visit Edfu temple by horse and carriage then the cruise sail to Komombo and upon arrival at Komombo we visit the temple there,day 4 you can visit Abu simble temples,Day 5 you can visit Philae temple on Agilika island and then Aswan High dam.Then you return to Cairo by plane or by train,If you have time you can visit Alexandria for 1 day.For more information please visit www.facebook.com/travelalloveregypt.'
+dateModified: '2016-05-21T14:20:05.111Z'
+datePublished: '2016-05-21T14:20:46.151Z'
+description: 'I can say that I like my work in tour guiding as specialist licenced well educated tour guide(Egyptologist)also am happy now after gaining more experience about handling tours which help me to get the best quality of service which is improving the whole stay,excursions and much more. '
 inFeed: true
+isBasedOnUrl: 'https://youtu.be/CHRykUzy5co'
 title: 'Travel over Egypt '
 author: []
 starred: false
@@ -11,4 +12,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Where to say and where to go in Egypt,We have multi choices for hotels and sightseeings all over Egypt and beyond,For example you need at least couple of days to visit the highlights of Cairo,day 1 to visit Giza Pyramids,the sphinx and Stepped Pyramid of Sakkarra and the complex of King DjDjoser and day 2 to visit the Egyptian museum and Saladin citadel,you can go to Luxor by plane or by train and recommend to take a cruise ship from Luxor to Aswan 4 nights 5 days where you can visit in Day 1 upon arrival Karnak and Luxor temples,day 2 you can go in hot air balloon ride in the west bank of Luxor then you can visit Valley of the Kings,temple of Queen Hatchsuit and Colossi of Memnon then the cruise sail to Edfu via Esna where we cross the lock then continue to Edfu,Day 3 you can visit Edfu temple by horse and carriage then the cruise sail to Komombo and upon arrival at Komombo we visit the temple there,day 4 you can visit Abu simble temples,Day 5 you can visit Philae temple on Agilika island and then Aswan High dam.Then you return to Cairo by plane or by train,If you have time you can visit Alexandria for 1 day.For more information please visit www.facebook.com/travelalloveregypt.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3350531-9ab3-4dbc-9520-d6f56a4e8284.jpg)
+![I can say that I like my work in tour guiding as specialist licenced well educated tour guide(Egyptologist)also am happy now after gaining more experience about handling tours which help me to get the best quality of service which is improving the whole stay,excursions and much more. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92c88fb-528f-42e8-a5a9-cea878d7cde0.jpg)
+
+* *
