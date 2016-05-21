@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-05-21T02:01:54.887Z'
-datePublished: '2016-05-21T02:02:34.078Z'
+dateModified: '2016-05-21T02:03:38.117Z'
+datePublished: '2016-05-21T02:03:53.068Z'
 description: 'I can say that I like my work in tour guiding as specialist licenced well educated tour guide(Egyptologist)also am happy now after gaining more experience about handling tours which help me to get the best quality of service which is improving the whole stay,excursions and much more. '
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/CHRykUzy5co'
