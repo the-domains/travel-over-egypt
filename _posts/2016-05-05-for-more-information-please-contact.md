@@ -1,8 +1,8 @@
 ---
 author: []
-dateModified: '2016-07-05T04:02:46.993Z'
-datePublished: '2016-07-05T04:02:55.374Z'
-description: ''
+dateModified: '2016-07-05T04:09:20.572Z'
+datePublished: '2016-07-05T04:09:33.107Z'
+description: Whatsapp and Viber
 hasPage: false
 inFeed: true
 inNav: false
@@ -14,7 +14,16 @@ _type: Article
 
 ---
 # For more information please contact:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77a390b-7c79-407d-8090-f5c972b4cd78.jpg)
+
+* 00201100542030
+
+Whatsapp and Viber
+
+Skype ID:ahmdunis
+
+www.facebook.com/travelalloveregypt.
+
+www.facebook.com/traveloveregypt.
 
 * 00201100542030
 
