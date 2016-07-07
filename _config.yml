@@ -6,10 +6,10 @@ color:
     - '#8090A0'
     - '#F0A040'
     - '#D8C8A8'
-  brandStrength: 1
+  brandStrength: 0.327702
   lightness: 0.278153
   rhythmicContrast: 0.492117
-  saturation: 1
+  saturation: 0.519144
 cta: {}
 layout_spectrum: 0.600225
 name: 'Travel over Egypt '
