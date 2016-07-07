@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Travel over Egypt ]]></title>
         <description><![CDATA[Travel over Egypt ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/travel-over-egypt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 01:45:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 01:48:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/travel-over-egypt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Abu simbel temples ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2e7468c-7d8c-4166-a70c-2162a756b920.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2e7468c-7d8c-4166-a70c-2162a756b920.jpg</link>
+            <guid isPermaLink="false">b26103f8-693c-4c69-afbc-2baabecb0972</guid>
+            <pubDate>Thu, 07 Jul 2016 01:47:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c7152d3-61d4-423f-8a3c-e39d0490eea6.jpg">]]></description>
