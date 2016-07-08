@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-07T02:41:54.332Z'
-datePublished: '2016-07-07T02:42:01.621Z'
+dateModified: '2016-07-08T03:41:45.033Z'
+datePublished: '2016-07-08T03:42:25.278Z'
 description: 'For more information please contact:-(+201100542030)'
 hasPage: false
 inFeed: true
@@ -21,12 +21,14 @@ Whatsapp and Viber
 
 Skype ID:-(ahmdunis)
 
-Email address:-(ahmdunis@yahoo.com)
+Email address:-(info@traveloveregypt.com)
 
-www.facebook.com/travelalloveregypt. 
+www.facebook.com/travelalloveregypt.
 
-www.facebook.com/traveloveregypt. 
+www.facebook.com/traveloveregypt.
 
-Info@traveloveregypt.com. 
+.
 
-ahmdunis@hotmail.com
+ahmdunis@hotmail.
+
+com
