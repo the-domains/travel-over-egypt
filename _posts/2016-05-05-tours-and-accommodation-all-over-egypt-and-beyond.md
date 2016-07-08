@@ -1,18 +1,20 @@
 ---
-dateModified: '2016-07-07T01:34:17.307Z'
-datePublished: '2016-07-07T01:46:26.632Z'
-title: 'Tours & accommodation all over Egypt & beyond '
+author: []
+dateModified: '2016-07-08T00:03:28.354Z'
+datePublished: '2016-07-08T00:03:42.474Z'
+description: ''
 hasPage: false
 inFeed: true
 inNav: false
-description: ''
-author: []
-sourcePath: _posts/2016-05-05-tours-and-accommodation-all-over-egypt-and-beyond.md
+title: 'Tours & accommodation all over Egypt & beyond '
 starred: false
+sourcePath: _posts/2016-05-05-tours-and-accommodation-all-over-egypt-and-beyond.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06f16bdf-f5b1-4542-821f-ef04893176bc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/56bac282f12caa1fbbf3ca24a69ed7b8459a6ae8.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc36c64f-9f03-43f8-929c-eeb7aee100af.gif)
+* ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e18967554b8bb4257c5c133dc3988c51005771cd.gif)
+
+Tours all over Egypt & beyond
