@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-08T03:41:45.033Z'
-datePublished: '2016-07-08T03:42:25.278Z'
+dateModified: '2016-07-08T03:53:15.984Z'
+datePublished: '2016-07-08T03:53:33.970Z'
 description: 'For more information please contact:-(+201100542030)'
 hasPage: false
 inFeed: true
@@ -15,20 +15,20 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dfdcd63-921f-4950-8f7a-1591aea465dd.jpg)
+
 For more information please contact:-(+201100542030)
 
 Whatsapp and Viber
 
-Skype ID:-(ahmdunis)
-
-Email address:-(info@traveloveregypt.com)
+Email address:-(info@traveloveregypt.com).
 
 www.facebook.com/travelalloveregypt.
 
-www.facebook.com/traveloveregypt.
+www.facebook.com/traveloveregypt. 
 
-.
+ahmdunis@yahoo.com. 
 
-ahmdunis@hotmail.
+ahmdunis@hotmail.com.
 
-com
+Skype ID:-(ahmdunis).
