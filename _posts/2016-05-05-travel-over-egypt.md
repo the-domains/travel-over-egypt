@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-07-07T01:36:20.731Z'
-datePublished: '2016-07-07T01:46:05.129Z'
+dateModified: '2016-07-12T04:35:57.340Z'
+datePublished: '2016-07-12T04:53:01.442Z'
 title: 'Travel over Egypt. '
 hasPage: false
 inFeed: true
@@ -8,7 +8,11 @@ inNav: false
 description: ''
 author: []
 sourcePath: _posts/2016-05-05-travel-over-egypt.md
-starred: false
+inLanguage: null
+keywords: []
+authors: []
+publisher: null
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
