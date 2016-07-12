@@ -1,4 +1,19 @@
-analytics: {}
+name: 'http//:traveloveregypt.com '
+favicon: null
+layout_spectrum: 0.600225
+typography_spectrum: 0.987612
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#090506'
@@ -8,11 +23,9 @@ color:
     - '#B06136'
   brandStrength: 0.156531
   lightness: 0.283783
-  rhythmicContrast: 0.195945
   saturation: 0.318693
-cta: {}
-layout_spectrum: 0.600225
-name: 'http//:traveloveregypt.com '
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.987612
+  rhythmicContrast: 0.195945
+purpose:
+  - name: null
+    item: null
+    url: null
