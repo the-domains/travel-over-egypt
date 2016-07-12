@@ -2,6 +2,7 @@ name: 'http//:traveloveregypt.com '
 favicon: null
 layout_spectrum: 0.600225
 typography_spectrum: 0.987612
+title: TRAVEL OVER EGYPT
 cta:
   domain: null
   bucket: null
