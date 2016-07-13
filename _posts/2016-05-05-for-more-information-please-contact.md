@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-08T03:53:15.984Z'
-datePublished: '2016-07-08T03:53:33.970Z'
+dateModified: '2016-07-13T01:21:28.034Z'
+datePublished: '2016-07-13T01:21:37.084Z'
 description: 'For more information please contact:-(+201100542030)'
 hasPage: false
 inFeed: true
@@ -25,10 +25,4 @@ Email address:-(info@traveloveregypt.com).
 
 www.facebook.com/travelalloveregypt.
 
-www.facebook.com/traveloveregypt. 
-
-ahmdunis@yahoo.com. 
-
-ahmdunis@hotmail.com.
-
-Skype ID:-(ahmdunis).
+www.facebook.com/traveloveregypt.
