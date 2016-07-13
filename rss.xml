@@ -4,8 +4,15 @@
         <description><![CDATA[TRAVEL OVER EGYPT]]></description>
         <link>http://traveloveregypt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 02:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 22:59:04 GMT</lastBuildDate>
         <atom:link href="http://traveloveregypt.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/413ce0d6-76ae-45a0-bb78-4a8021c7ac6e.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c9f7468-c2ef-4b81-b9e4-eabd2f7e57fb.jpg</link>
+            <guid isPermaLink="false">feecb6ab-0b6d-4439-b1d2-5c8af4b9be12</guid>
+            <pubDate>Wed, 13 Jul 2016 22:58:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For more information please contact:]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dfdcd63-921f-4950-8f7a-1591aea465dd.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c28546e0-3acc-4685-b0a0-afdef6b2f704.jpg</link>
             <guid isPermaLink="false">82f95ce5-2f9a-4ca1-889e-5eb103a23bb6</guid>
             <pubDate>Thu, 07 Jul 2016 02:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c7152d3-61d4-423f-8a3c-e39d0490eea6.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c7152d3-61d4-423f-8a3c-e39d0490eea6.jpg</link>
-            <guid isPermaLink="false">820f09a5-2326-48fe-ab01-16a0ea28e3a6</guid>
-            <pubDate>Thu, 07 Jul 2016 01:45:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
