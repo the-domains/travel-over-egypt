@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-08T04:18:39.978Z'
-datePublished: '2016-07-08T04:18:51.872Z'
+dateModified: '2016-07-13T01:16:08.442Z'
+datePublished: '2016-07-13T01:16:34.484Z'
 description: ''
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/CHRykUzy5co'
@@ -14,5 +14,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24beacd2-4f47-449f-91b1-3c610b813441.jpg)
 
-* We can say that we like our work in tour guiding as specialists licenced well educated tour guides(Egyptologists),throughout years we gained more experiences to organize tours and accommodation properly as teamwork of tour operators,reservation representatives,drivers and many others working on making your vacation like a dream vacation.
+* We can say that we like our work as specialists licenced tour operators,tour guides (Egyptologists) and many others to help you all the way round the clock to make it dream vacation,throughout years we gained more experiences to organize tours and accommodation properly as teamwork of tour operators,reservation representatives,drivers and many others working on making it marvelous. 
+
 * Travel over Egypt & beyond.
