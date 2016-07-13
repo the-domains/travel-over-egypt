@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-13T01:21:28.034Z'
-datePublished: '2016-07-13T01:21:37.084Z'
+dateModified: '2016-07-13T02:22:02.897Z'
+datePublished: '2016-07-13T02:22:12.880Z'
 description: 'For more information please contact:-(+201100542030)'
 hasPage: false
 inFeed: true
@@ -21,7 +21,7 @@ For more information please contact:-(+201100542030)
 
 Whatsapp and Viber
 
-Email address:-(info@traveloveregypt.com).
+Email:(info@traveloveregypt.com).
 
 www.facebook.com/travelalloveregypt.
 
