@@ -4,8 +4,15 @@
         <description><![CDATA[TRAVEL OVER EGYPT]]></description>
         <link>http://traveloveregypt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 16:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 16:49:13 GMT</lastBuildDate>
         <atom:link href="http://traveloveregypt.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Movie]]></title>
+            <description><![CDATA[<article><h1>Movie</h1><p>stunning villa overlooking Namaa Bay in Sharm</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47d088ab18c7029af718c43228ae236b/croprotate.jpg?cropheight=329&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FOIWutUeqn7U%2Fhqdefault.jpg&x=0&y=15"></article>]]></description>
+            <link>https://youtu.be/OIWutUeqn7U</link>
+            <guid isPermaLink="false">afe997a8-10ab-46a9-8612-3d695f3f7ccb</guid>
+            <pubDate>Thu, 14 Jul 2016 16:49:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a448f723-45e5-4285-8e41-d190c5361d37.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/82726ae4-8b7c-47d1-b187-4baa9e25c3ed.jpg</link>
             <guid isPermaLink="false">f2eae90b-3441-4aa0-a4db-fc6613ede6ae</guid>
             <pubDate>Sat, 09 Jul 2016 06:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TSC testimonial 1]]></title>
-            <description><![CDATA[<article><h1>TSC testimonial 1</h1><p>Evalution of tourist guide in Egypt</p></article>]]></description>
-            <link>https://youtu.be/CHRykUzy5co</link>
-            <guid isPermaLink="false">3791d47a-6275-4656-878d-aeb460413d5f</guid>
-            <pubDate>Thu, 07 Jul 2016 02:06:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
