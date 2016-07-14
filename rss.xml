@@ -4,8 +4,15 @@
         <description><![CDATA[TRAVEL OVER EGYPT]]></description>
         <link>http://traveloveregypt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 00:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 16:41:10 GMT</lastBuildDate>
         <atom:link href="http://traveloveregypt.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a448f723-45e5-4285-8e41-d190c5361d37.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a448f723-45e5-4285-8e41-d190c5361d37.jpg</link>
+            <guid isPermaLink="false">26ec10d1-6aa2-4845-b28a-97f7bfe5643b</guid>
+            <pubDate>Thu, 14 Jul 2016 16:41:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f724262a-8c38-4503-90fe-67755347bec7.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/CHRykUzy5co</link>
             <guid isPermaLink="false">3791d47a-6275-4656-878d-aeb460413d5f</guid>
             <pubDate>Thu, 07 Jul 2016 02:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whatsapp and Viber 00201100542030 ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c28546e0-3acc-4685-b0a0-afdef6b2f704.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c28546e0-3acc-4685-b0a0-afdef6b2f704.jpg</link>
-            <guid isPermaLink="false">82f95ce5-2f9a-4ca1-889e-5eb103a23bb6</guid>
-            <pubDate>Thu, 07 Jul 2016 02:04:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
