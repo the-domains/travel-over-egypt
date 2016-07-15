@@ -4,8 +4,15 @@
         <description><![CDATA[TRAVEL OVER EGYPT]]></description>
         <link>http://traveloveregypt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 16:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 02:23:54 GMT</lastBuildDate>
         <atom:link href="http://traveloveregypt.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Luxor temple]]></title>
+            <description><![CDATA[<article><h1>Luxor temple</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcecd50d-8f36-4529-90a1-316867324d1c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/558eb8cc-3ae3-4cdc-b61c-2e72a42425a6.jpg</link>
+            <guid isPermaLink="false">60cce954-0d33-45dd-88c2-daa1d96d14a3</guid>
+            <pubDate>Fri, 15 Jul 2016 02:23:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Movie]]></title>
             <description><![CDATA[<article><h1>Movie</h1><p>stunning villa overlooking Namaa Bay in Sharm</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47d088ab18c7029af718c43228ae236b/croprotate.jpg?cropheight=329&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FOIWutUeqn7U%2Fhqdefault.jpg&x=0&y=15"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/23532a00-3093-4d30-8ff9-9709d8fd5280.gif</link>
             <guid isPermaLink="false">8dc2aa72-6fea-4600-970d-6f2a627366b5</guid>
             <pubDate>Sat, 09 Jul 2016 07:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c36fdd6-cdb8-42f6-bbaf-2c1abfc35fcb.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/82726ae4-8b7c-47d1-b187-4baa9e25c3ed.jpg</link>
-            <guid isPermaLink="false">f2eae90b-3441-4aa0-a4db-fc6613ede6ae</guid>
-            <pubDate>Sat, 09 Jul 2016 06:05:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
