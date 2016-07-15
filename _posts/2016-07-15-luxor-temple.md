@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-15T02:32:11.883Z'
-datePublished: '2016-07-15T02:32:24.135Z'
+dateModified: '2016-07-15T02:40:03.998Z'
+datePublished: '2016-07-15T02:40:14.732Z'
 description: ''
 inFeed: true
 isBasedOnUrl: >-
@@ -14,4 +14,5 @@ _type: Article
 
 ---
 # Luxor temple
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcecd50d-8f36-4529-90a1-316867324d1c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4afa2ab-15e1-486a-a5e8-225cad3a4d50.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b26e2a-8692-496b-be58-aad0018302ce.jpg)
