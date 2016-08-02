@@ -1,20 +1,12 @@
 name: 'http//:traveloveregypt.com '
-favicon: null
 layout_spectrum: 0.58664
 typography_spectrum: 1
-title: TRAVEL OVER EGYPT
-cta:
-  domain: null
-  bucket: null
-  version: null
+cta: {}
 analytics:
+  facebook: ''
   google: UA-80814309-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  twitter: ''
+opengraph: {}
 color:
   brandColors:
     - '#090506'
@@ -27,6 +19,5 @@ color:
   saturation: 0
   rhythmicContrast: 0.25
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+title: TRAVEL OVER EGYPT
