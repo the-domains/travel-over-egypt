@@ -1,4 +1,6 @@
 name: 'http//:traveloveregypt.com '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
 layout_spectrum: 0.58664
 typography_spectrum: 1
 cta: {}
@@ -6,7 +8,9 @@ analytics:
   facebook: ''
   google: UA-80814309-1
   twitter: ''
-opengraph: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#090506'
@@ -21,3 +25,9 @@ color:
 purpose:
   - {}
 title: TRAVEL OVER EGYPT
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
