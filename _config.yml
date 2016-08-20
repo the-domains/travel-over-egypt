@@ -1,16 +1,5 @@
-name: 'http//:traveloveregypt.com '
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
 layout_spectrum: 0.58664
-typography_spectrum: 1
-cta: {}
-analytics:
-  facebook: ''
-  google: UA-80814309-1
-  twitter: ''
-opengraph:
-  type: ''
-  appId: ''
+typography_spectrum: 0.24137940723448992
 color:
   brandColors:
     - '#090506'
@@ -22,6 +11,19 @@ color:
   lightness: 0.125
   saturation: 0
   rhythmicContrast: 0.25
+coverPrefs:
+  filter: false
+name: 'http//:traveloveregypt.com '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
+cta: {}
+analytics:
+  facebook: ''
+  google: UA-80814309-1
+  twitter: ''
+opengraph:
+  type: ''
+  appId: ''
 purpose: []
 title: TRAVEL OVER EGYPT
 author:
