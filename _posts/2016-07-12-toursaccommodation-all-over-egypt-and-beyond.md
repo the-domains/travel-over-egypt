@@ -1,14 +1,15 @@
 ---
-author: []
-dateModified: '2016-07-12T05:35:53.516Z'
-description: 'Tours,accommodation all over Egypt & beyond. '
-inFeed: true
 title: ''
-datePublished: '2016-07-12T05:36:51.649Z'
+datePublished: '2016-08-20T14:12:56.662Z'
+dateModified: '2016-08-20T14:12:52.042Z'
+author: []
+inFeed: true
+description: 'Tours,accommodation all over Egypt & beyond'
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-07-12-toursaccommodation-all-over-egypt-and-beyond.md
-_context: 'http://schema.org'
-_type: MediaObject
+_type: Blurb
 
 ---
-Tours,accommodation all over Egypt & beyond.
+Tours,accommodation all over Egypt & beyond
