@@ -22,8 +22,7 @@ color:
   lightness: 0.125
   saturation: 0
   rhythmicContrast: 0.25
-purpose:
-  - {}
+purpose: []
 title: TRAVEL OVER EGYPT
 author:
   name: ''
