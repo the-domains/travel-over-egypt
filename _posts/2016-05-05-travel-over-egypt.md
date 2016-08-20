@@ -1,20 +1,20 @@
 ---
-dateModified: '2016-07-12T04:35:57.340Z'
-datePublished: '2016-07-12T04:53:01.442Z'
+keywords: []
 title: 'Travel over Egypt. '
-hasPage: false
+datePublished: '2016-08-20T10:41:36.949Z'
+dateModified: '2016-08-05T01:11:35.376Z'
+publisher:
+  name: 'Travel over Egypt '
+  url: 'www.facebook.com/travelalloveregypt. '
+author: []
 inFeed: true
+hasPage: false
 inNav: false
 description: ''
-author: []
-sourcePath: _posts/2016-05-05-travel-over-egypt.md
-inLanguage: null
-keywords: []
-authors: []
-publisher: null
+via: {}
 starred: true
-_context: 'http://schema.org'
-_type: Article
+sourcePath: _posts/2016-05-05-travel-over-egypt.md
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1f1aef7-c4a8-4f6a-8042-2d9ac968beba.jpg)
