@@ -4,7 +4,7 @@
         <description><![CDATA[TRAVEL OVER EGYPT]]></description>
         <link>http://traveloveregypt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 22:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 22:55:34 GMT</lastBuildDate>
         <atom:link href="http://traveloveregypt.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/960431d3-68b6-4bf1-81d4-8ec7decfa197.jpg</link>
             <guid isPermaLink="false">0c328ffe-ee62-499f-aafa-35451cae9030</guid>
             <pubDate>Sat, 20 Aug 2016 12:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abu simbel temples ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2e7468c-7d8c-4166-a70c-2162a756b920.jpg" alt="The Great temple of Abu Simbel,the temple of King Rameses II. ">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2e7468c-7d8c-4166-a70c-2162a756b920.jpg</link>
+            <guid isPermaLink="false">b26103f8-693c-4c69-afbc-2baabecb0972</guid>
+            <pubDate>Mon, 22 Aug 2016 22:55:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel over Egypt ]]></title>
@@ -61,13 +68,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/036f5496-aa30-42fd-a61f-d4fe6174fcfa.jpg</link>
             <guid isPermaLink="false">bf42d9b7-6e8b-4dd4-8ea0-9c8601e0650a</guid>
             <pubDate>Wed, 13 Jul 2016 02:22:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abu simbel temples ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28b23d79-35ab-42fb-81b3-2fbdf6ec2106.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2e7468c-7d8c-4166-a70c-2162a756b920.jpg</link>
-            <guid isPermaLink="false">b26103f8-693c-4c69-afbc-2baabecb0972</guid>
-            <pubDate>Tue, 12 Jul 2016 23:48:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
