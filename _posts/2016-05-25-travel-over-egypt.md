@@ -1,16 +1,17 @@
 ---
+title: 'Travel over Egypt '
+datePublished: '2016-09-03T00:17:11.984Z'
+dateModified: '2016-09-03T00:17:02.725Z'
 author: []
-dateModified: '2016-07-10T23:35:50.770Z'
-datePublished: '2016-07-10T23:35:59.205Z'
+inFeed: true
 description: >-
   An overday to visit to the Egyptian museum and Saladin citadel in
   Cairo,Egypt. 
-inFeed: true
-title: 'Travel over Egypt '
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-05-25-travel-over-egypt.md
-_context: 'http://schema.org'
-_type: Article
+_type: Blurb
 
 ---
 ![An overday to visit to the Egyptian museum and Saladin citadel in Cairo.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/195052b5-36c5-4599-8c75-7945f4a4e3b4.jpg)
