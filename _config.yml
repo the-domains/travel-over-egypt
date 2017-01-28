@@ -1,21 +1,8 @@
-layout_spectrum: 0.7981968112289906
-typography_spectrum: 0.37979158316738904
-color:
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  brandStrength: 0.8560164058580995
-  lightness: 0.8351110115181655
-  saturation: 0.05724932160228491
-  rhythmicContrast: 0.189755751285702
-coverPrefs:
-  filter: false
 name: 'http//:traveloveregypt.com '
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
+layout_spectrum: 1
+typography_spectrum: 1
 cta: {}
 analytics:
   facebook: ''
@@ -23,12 +10,55 @@ analytics:
   twitter: ''
 opengraph:
   type: ''
-  appId: ''
-purpose: []
+  appId: 'traveloveregypt '
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
+color:
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+purpose:
+  - type: contact
+    label: Email us
+    url: 'mailto:info@traveloveregypt.com'
+  - type: contact
+    label: 'Call us:+201100542030'
+    url: 'tel:+201100542030'
 title: TRAVEL OVER EGYPT
+description: 'Tours,accommodation all over Egypt & beyond '
 author:
-  name: ''
-  url: ''
-  email: ''
+  url: 'http://traveloveregypt.com'
+  email: info@traveloveregypt.com
 content_rating:
   adult: false
+navigation:
+  - name: 'The best air ticket prices from Qtarairway '
+    url: 'http://qatarairways.go2cloud.org/aff_c?offer_id=2&aff_id=4005'
+    type: external
+  - name: 'Three corners sea beach resort,Marsa Alam'
+    id: a7bc3779-3bc5-4c51-9c1d-47e011837e30
+    type: content
+  - name: Three corners Equinox resort
+    id: efe60fb8-2c6c-47f2-80ec-a4a226954ad6
+    type: content
+  - name: 'Tia Heights resort,Hurghada'
+    id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
+    type: content
+  - name: 'Dahabiya Nile cruise '
+    id: 81275e91-0459-4458-85b0-4a13ad53a5df
+    type: content
+  - name: 'The temples of Abu Simbel. '
+    id: b26103f8-693c-4c69-afbc-2baabecb0972
+    type: content
+  - name: 'About us..... '
+    id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
+    type: content
+content: []
+github: true
