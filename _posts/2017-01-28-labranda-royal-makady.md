@@ -1,7 +1,7 @@
 ---
 title: 'Labranda Royal Makady:'
-datePublished: '2017-01-29T21:49:38.078Z'
-dateModified: '2017-01-29T21:49:28.457Z'
+datePublished: '2017-01-30T23:02:50.771Z'
+dateModified: '2017-01-30T23:02:01.492Z'
 publisher: {}
 author: []
 inFeed: true
@@ -19,7 +19,7 @@ description: >-
   game of squash. The LABRANDA Royal Makadi is situated 14.9 miles from Hurghada
   International Airport. Free private parking is possible on site.
 via: {}
-starred: false
+starred: true
 datePublishedOriginal: '2017-01-28T01:42:02.540Z'
 sourcePath: _posts/2017-01-28-labranda-royal-makady.md
 _type: Article
