@@ -54,11 +54,11 @@ navigation:
   - name: 'Dahabiya Nile cruise '
     id: 81275e91-0459-4458-85b0-4a13ad53a5df
     type: content
-  - name: 'The temples of Abu Simbel. '
-    id: b26103f8-693c-4c69-afbc-2baabecb0972
-    type: content
   - name: Queen Nefertari
     id: e3d5f486-38c2-4831-9fa2-c7dac5bc3743
+    type: content
+  - name: 'The temples of Abu Simbel. '
+    id: b26103f8-693c-4c69-afbc-2baabecb0972
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
