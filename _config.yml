@@ -51,11 +51,11 @@ navigation:
   - name: 'Tia Heights resort,Hurghada'
     id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
     type: content
-  - name: 'Dahabiya Nile cruise '
-    id: 81275e91-0459-4458-85b0-4a13ad53a5df
-    type: content
   - name: Queen Nefertari
     id: e3d5f486-38c2-4831-9fa2-c7dac5bc3743
+    type: content
+  - name: 'Dahabiya Nile cruise '
+    id: 81275e91-0459-4458-85b0-4a13ad53a5df
     type: content
   - name: 'The temples of Abu Simbel. '
     id: b26103f8-693c-4c69-afbc-2baabecb0972
