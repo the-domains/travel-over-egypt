@@ -60,11 +60,11 @@ navigation:
   - name: 'The temples of Abu Simbel. '
     id: b26103f8-693c-4c69-afbc-2baabecb0972
     type: content
-  - name: 'About us..... '
-    id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
   - name: 'Tour Packages:'
     id: 53463c40-5c5c-44ae-bba3-28293ed9401d
+    type: content
+  - name: 'About us..... '
+    id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
 content: []
 github: true
