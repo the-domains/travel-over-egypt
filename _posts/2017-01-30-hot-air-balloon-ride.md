@@ -1,6 +1,7 @@
 ---
 title: 'Hot air balloon ride:'
-dateModified: '2017-02-03T21:35:28.555Z'
+datePublished: '2017-02-04T00:10:49.483Z'
+dateModified: '2017-02-04T00:10:47.305Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,7 +11,6 @@ description: >-
   safest and the most experienced hot air balloon aviation companies with
   professional licensed hot air balloon pilots and crew.
 via: {}
-datePublished: '2017-02-03T21:35:40.545Z'
 starred: false
 datePublishedOriginal: '2017-02-03T21:35:40.545Z'
 sourcePath: _posts/2017-01-30-hot-air-balloon-ride.md
@@ -34,4 +34,6 @@ _context: 'http://schema.org'
 
 Unforgettable experience in the west bank of Luxor,every early morning before sunrise,enjoy with us a lovely experience of hot air balloon ride,with the safest and the most experienced hot air balloon aviation companies with professional licensed hot air balloon pilots and crew.
 
-For more information please contact:info@traveloveregypt.com
+For more information please contact:
+
+info@traveloveregypt.com
