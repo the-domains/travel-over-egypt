@@ -1,7 +1,7 @@
 ---
 title: 'Labranda Royal Makady:'
-datePublished: '2017-01-30T23:02:50.771Z'
-dateModified: '2017-01-30T23:02:01.492Z'
+datePublished: '2017-02-04T00:31:23.092Z'
+dateModified: '2017-02-04T00:31:20.552Z'
 publisher: {}
 author: []
 inFeed: true
@@ -43,3 +43,7 @@ LABRANDA Royal Makadi rooms are air conditioned and have modern wood furnishings
 The resort offers a variety of dining options. Guests can enjoy fresh seafood at beachfront restaurant Le Pecheur, or cocktails and snacks at poolside bar Tropicana.   
 Leisure facilities include a fitness centre, tennis court and a games room with billiards. Guests can relax on a sun lounger next to the pool, or play a game of squash.   
 The LABRANDA Royal Makadi is situated 14.9 miles from Hurghada International Airport. Free private parking is possible on site.
+
+For more information please contact:
+
+info@traveloveregypt.com
