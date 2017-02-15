@@ -1,7 +1,7 @@
 ---
 title: 'Labranda Royal Makady:'
-datePublished: '2017-02-15T23:37:00.611Z'
-dateModified: '2017-02-15T23:36:59.187Z'
+datePublished: '2017-02-15T23:39:25.041Z'
+dateModified: '2017-02-15T23:39:24.023Z'
 publisher: {}
 author: []
 inFeed: true
@@ -20,8 +20,10 @@ description: >-
   International Airport. Free private parking is possible on site.
 via: {}
 sourcePath: _posts/2017-01-28-labranda-royal-makady.md
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-01-28T01:42:02.540Z'
+url: labranda-royal-makady/index.html
 _type: Article
 _context: 'http://schema.org'
 
