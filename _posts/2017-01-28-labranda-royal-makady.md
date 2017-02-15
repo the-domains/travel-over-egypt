@@ -1,7 +1,7 @@
 ---
 title: 'Labranda Royal Makady:'
-datePublished: '2017-02-04T11:11:57.742Z'
-dateModified: '2017-02-04T11:11:27.049Z'
+datePublished: '2017-02-15T23:37:00.611Z'
+dateModified: '2017-02-15T23:36:59.187Z'
 publisher: {}
 author: []
 inFeed: true
@@ -19,9 +19,9 @@ description: >-
   game of squash. The LABRANDA Royal Makadi is situated 14.9 miles from Hurghada
   International Airport. Free private parking is possible on site.
 via: {}
+sourcePath: _posts/2017-01-28-labranda-royal-makady.md
 starred: true
 datePublishedOriginal: '2017-01-28T01:42:02.540Z'
-sourcePath: _posts/2017-01-28-labranda-royal-makady.md
 _type: Article
 _context: 'http://schema.org'
 
@@ -36,7 +36,7 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfdb571a-d853-4e09-a36c-99b7ff34f167.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db93fcc8-f3c7-4863-9530-54f52e73126c.jpg)
 
-# Labranda Royal Makady:
+# _**Labranda Royal Makady:**_
 
 Situated on a private sandy beach in Hurghada's Makadi Bay, this 5-star all-inclusive resort overlooks the Red Sea. It has an elegant landscaped pool area and offers spacious guestrooms with balconies and panoramic views.   
 LABRANDA Royal Makadi rooms are air conditioned and have modern wood furnishings. They come equipped with satellite TV, a minibar, and a private bathroom with a hairdryer. Some rooms include garden views.   
