@@ -61,11 +61,11 @@ navigation:
   - name: 'Tour Packages:'
     id: 53463c40-5c5c-44ae-bba3-28293ed9401d
     type: content
-  - name: 'About us..... '
-    id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
   - name: Labranda Royal Makady
     id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
+    type: content
+  - name: 'About us..... '
+    id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
 title: TRAVEL OVER EGYPT
 content: []
