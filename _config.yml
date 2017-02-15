@@ -1,18 +1,6 @@
-name: 'http//:traveloveregypt.com '
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
-layout_spectrum: 1
 typography_spectrum: 1
-cta: {}
-analytics:
-  facebook: www.facebook.com/traveloveregypt
-  google: UA-80814309-1
-  twitter: ''
-opengraph:
-  type: ''
-  appId: 'traveloveregypt '
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#F8F9FC'
@@ -24,20 +12,24 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
-purpose:
-  - type: contact
-    label: Email us
-    url: 'mailto:info@traveloveregypt.com'
-  - type: contact
-    label: 'Call us:+201100542030'
-    url: 'tel:+201100542030'
-title: TRAVEL OVER EGYPT
-description: 'Tours,accommodation all over Egypt & beyond '
+github: true
+opengraph:
+  type: ''
+  appId: 'traveloveregypt '
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
+layout_spectrum: 1
+analytics:
+  facebook: www.facebook.com/traveloveregypt
+  google: UA-80814309-1
+  twitter: ''
 author:
   url: 'http://traveloveregypt.com'
   email: info@traveloveregypt.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
+name: 'http//:traveloveregypt.com '
+cta: {}
 navigation:
   - name: 'The best air ticket prices from Qtarairway '
     url: 'http://qatarairways.go2cloud.org/aff_c?offer_id=2&aff_id=4005'
@@ -72,5 +64,16 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: Labranda Royal Makady
+    id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
+    type: content
+title: TRAVEL OVER EGYPT
 content: []
-github: true
+description: 'Tours,accommodation all over Egypt & beyond '
+purpose:
+  - type: contact
+    label: Email us
+    url: 'mailto:info@traveloveregypt.com'
+  - type: contact
+    label: 'Call us:+201100542030'
+    url: 'tel:+201100542030'
