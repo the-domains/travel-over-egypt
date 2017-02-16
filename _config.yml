@@ -1,6 +1,5 @@
-typography_spectrum: 1
-content_rating:
-  adult: false
+layout_spectrum: 0.26821642118441585
+typography_spectrum: 0.24939942761969816
 color:
   brandColors:
     - '#F8F9FC'
@@ -8,17 +7,18 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
-  brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  brandStrength: 0.6746574402217855
+  lightness: 0.46695763890041353
+  saturation: 0.032190935667511994
+  rhythmicContrast: 0.7455683446992741
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: 'traveloveregypt '
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
-layout_spectrum: 1
 analytics:
   facebook: www.facebook.com/traveloveregypt
   google: UA-80814309-1
