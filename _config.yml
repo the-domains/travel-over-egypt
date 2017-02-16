@@ -1,5 +1,18 @@
+name: 'http//:traveloveregypt.com '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
 layout_spectrum: 0.03188468729772854
 typography_spectrum: 0.08335210557602862
+cta: {}
+analytics:
+  facebook: www.facebook.com/traveloveregypt
+  google: UA-80814309-1
+  twitter: ''
+opengraph:
+  type: ''
+  appId: 'traveloveregypt '
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
 color:
   brandColors:
     - '#FF5335'
@@ -11,27 +24,20 @@ color:
   lightness: 0.20500830845206536
   saturation: 0.14972244385307157
   rhythmicContrast: 0.8567408660145495
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
-github: true
-opengraph:
-  type: ''
-  appId: 'traveloveregypt '
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
-analytics:
-  facebook: www.facebook.com/traveloveregypt
-  google: UA-80814309-1
-  twitter: ''
+purpose:
+  - type: contact
+    label: Email us
+    url: 'mailto:info@traveloveregypt.com'
+  - type: contact
+    label: 'Call us:+201100542030'
+    url: 'tel:+201100542030'
+title: TRAVEL OVER EGYPT
+description: 'Tours,accommodation all over Egypt & beyond '
 author:
   url: 'http://traveloveregypt.com'
   email: info@traveloveregypt.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
-name: 'http//:traveloveregypt.com '
-cta: {}
+content_rating:
+  adult: false
 navigation:
   - name: 'The best air ticket prices from Qtarairway '
     url: 'http://qatarairways.go2cloud.org/aff_c?offer_id=2&aff_id=4005'
@@ -45,11 +51,11 @@ navigation:
   - name: 'Tia Heights resort,Hurghada'
     id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
     type: content
-  - name: 'Labranda Royal Makady:'
-    id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
-    type: content
   - name: 'Tour Packages:'
     id: 53463c40-5c5c-44ae-bba3-28293ed9401d
+    type: content
+  - name: 'Labranda Royal Makady:'
+    id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
     type: content
   - name: 'M/S Blue Shadow:'
     id: 64273065-fbad-4d11-80b4-c7d17b9b5541
@@ -69,13 +75,5 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
-title: TRAVEL OVER EGYPT
 content: []
-description: 'Tours,accommodation all over Egypt & beyond '
-purpose:
-  - type: contact
-    label: Email us
-    url: 'mailto:info@traveloveregypt.com'
-  - type: contact
-    label: 'Call us:+201100542030'
-    url: 'tel:+201100542030'
+github: true
