@@ -1,5 +1,18 @@
+name: 'http//:traveloveregypt.com '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
 layout_spectrum: 0.8940469026760115
 typography_spectrum: 0.5069132497128431
+cta: {}
+analytics:
+  facebook: www.facebook.com/traveloveregypt
+  google: UA-80814309-1
+  twitter: ''
+opengraph:
+  type: ''
+  appId: 'traveloveregypt '
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
 color:
   brandColors:
     - '#000000'
@@ -11,21 +24,6 @@ color:
   lightness: 0.30299579117188946
   saturation: 0.3593283181535172
   rhythmicContrast: 0.12104018753754103
-coverPrefs:
-  filter: false
-name: 'http//:traveloveregypt.com '
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
-cta: {}
-analytics:
-  facebook: www.facebook.com/traveloveregypt
-  google: UA-80814309-1
-  twitter: ''
-opengraph:
-  type: ''
-  appId: 'traveloveregypt '
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
 purpose:
   - type: contact
     label: Email us
@@ -79,6 +77,9 @@ navigation:
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
+    type: content
+  - name: 'Labranda Club Makady:'
+    id: 9292a177-9abc-4bc0-a9a7-fd324c8a2341
     type: content
 content: []
 github: true
