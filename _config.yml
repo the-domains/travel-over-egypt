@@ -84,5 +84,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Three Corners Happy Life:'
+    id: 7e2d538b-2df2-431a-ac52-fef90cda41df
+    type: content
 content: []
 github: true
