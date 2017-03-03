@@ -1,8 +1,21 @@
+layout_spectrum: 0.8940469026760115
+typography_spectrum: 0.5069132497128431
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.1762378474262239
+  lightness: 0.30299579117188946
+  saturation: 0.3593283181535172
+  rhythmicContrast: 0.12104018753754103
+coverPrefs:
+  filter: false
 name: 'http//:traveloveregypt.com '
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
-layout_spectrum: 0.03188468729772854
-typography_spectrum: 0.08335210557602862
 cta: {}
 analytics:
   facebook: www.facebook.com/traveloveregypt
@@ -13,17 +26,6 @@ opengraph:
   appId: 'traveloveregypt '
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
-color:
-  brandColors:
-    - '#FF5335'
-    - '#B39C85'
-    - '#306E73'
-    - '#3B424D'
-    - '#1D181F'
-  brandStrength: 0.2971137039138391
-  lightness: 0.20500830845206536
-  saturation: 0.14972244385307157
-  rhythmicContrast: 0.8567408660145495
 purpose:
   - type: contact
     label: Email us
