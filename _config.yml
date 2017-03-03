@@ -45,17 +45,17 @@ navigation:
   - name: 'Three corners sea beach resort,Marsa Alam'
     id: a7bc3779-3bc5-4c51-9c1d-47e011837e30
     type: content
-  - name: 'Tia Heights resort,Hurghada'
-    id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
-    type: content
   - name: Three corners Equinox resort
     id: efe60fb8-2c6c-47f2-80ec-a4a226954ad6
     type: content
-  - name: 'Labranda Royal Makady:'
-    id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
+  - name: 'Tia Heights resort,Hurghada'
+    id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
     type: content
   - name: 'Tour Packages:'
     id: 53463c40-5c5c-44ae-bba3-28293ed9401d
+    type: content
+  - name: 'Labranda Royal Makady:'
+    id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
     type: content
   - name: 'M/S Blue Shadow:'
     id: 64273065-fbad-4d11-80b4-c7d17b9b5541
