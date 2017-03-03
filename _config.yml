@@ -48,14 +48,17 @@ navigation:
   - name: Three corners Equinox resort
     id: efe60fb8-2c6c-47f2-80ec-a4a226954ad6
     type: content
-  - name: 'Tia Heights resort,Hurghada'
-    id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
+  - name: 'Novotel Marsa Allam:'
+    id: 04c264eb-7c64-4970-9423-2cedadae5241
     type: content
   - name: 'Labranda Royal Makady:'
     id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
     type: content
   - name: 'Labranda Garden Makady:'
     id: 063e3e7c-2769-4b9b-984a-ab6aca3842be
+    type: content
+  - name: 'Tia Heights resort,Hurghada'
+    id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
     type: content
   - name: 'Tour Packages:'
     id: 53463c40-5c5c-44ae-bba3-28293ed9401d
@@ -80,9 +83,6 @@ navigation:
     type: content
   - name: 'Labranda Club Makady:'
     id: 9292a177-9abc-4bc0-a9a7-fd324c8a2341
-    type: content
-  - name: 'Novotel Marsa Allam:'
-    id: 04c264eb-7c64-4970-9423-2cedadae5241
     type: content
 content: []
 github: true
