@@ -81,5 +81,8 @@ navigation:
   - name: 'Labranda Club Makady:'
     id: 9292a177-9abc-4bc0-a9a7-fd324c8a2341
     type: content
+  - name: 'Novotel Marsa Allam:'
+    id: 04c264eb-7c64-4970-9423-2cedadae5241
+    type: content
 content: []
 github: true
