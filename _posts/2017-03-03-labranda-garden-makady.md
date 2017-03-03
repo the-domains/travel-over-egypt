@@ -1,17 +1,17 @@
 ---
 title: 'Labranda Garden Makady:'
-dateModified: '2017-03-03T11:52:44.663Z'
+datePublished: '2017-03-03T11:58:21.912Z'
+dateModified: '2017-03-03T11:58:18.787Z'
 publisher: {}
 author: []
 inFeed: true
+hasPage: true
 description: >-
-  Offering an outdoor pool and a private beach, Makadi Garden Azur Resort is
+  Offering an outdoor pool and a private beach,Labranda Garden Makady  Resort is
   located in Hurghada. Free WiFi access is available in the lobby. The all
   inclusive formula at the property includes access to the buffet restaurant and
   recreational facilities at Club Azur resort.
 via: {}
-datePublished: '2017-03-03T11:53:00.147Z'
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-03T11:53:00.147Z'
 sourcePath: _posts/2017-03-03-labranda-garden-makady.md
@@ -22,7 +22,7 @@ _context: 'http://schema.org'
 ---
 # Labranda Garden Makady:
 
-Offering an outdoor pool and a private beach, Makadi Garden Azur Resort is located in Hurghada. Free WiFi access is available in the lobby. The all inclusive formula at the property includes access to the buffet restaurant and recreational facilities at Club Azur resort.
+Offering an outdoor pool and a private beach,Labranda Garden Makady Resort is located in Hurghada. Free WiFi access is available in the lobby. The all inclusive formula at the property includes access to the buffet restaurant and recreational facilities at Club Azur resort.
 
 The accommodation will provide you with a flat-screen TV and air conditioning. Featuring a bath or shower, private bathroom also comes with a hairdryer and free toiletries. You can enjoy garden and pool views from the room. Extras include a minibar and satellite channels.
 
