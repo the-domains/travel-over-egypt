@@ -75,5 +75,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Labranda Garden Makady:'
+    id: 063e3e7c-2769-4b9b-984a-ab6aca3842be
+    type: content
 content: []
 github: true
