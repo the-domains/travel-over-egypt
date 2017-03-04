@@ -45,11 +45,11 @@ navigation:
   - name: 'Three corners sea beach resort,Marsa Alam'
     id: a7bc3779-3bc5-4c51-9c1d-47e011837e30
     type: content
-  - name: Three corners Equinox resort
-    id: efe60fb8-2c6c-47f2-80ec-a4a226954ad6
-    type: content
   - name: 'Three Corners Happy Life:'
     id: 7e2d538b-2df2-431a-ac52-fef90cda41df
+    type: content
+  - name: Three corners Equinox resort
+    id: efe60fb8-2c6c-47f2-80ec-a4a226954ad6
     type: content
   - name: 'Three Corners Fairouz Plaza:'
     id: 97c3cb83-9392-4f83-9800-3388d365662a
