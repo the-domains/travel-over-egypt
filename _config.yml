@@ -42,11 +42,11 @@ navigation:
   - name: 'The best air ticket prices from Qtarairway '
     url: 'http://qatarairways.go2cloud.org/aff_c?offer_id=2&aff_id=4005'
     type: external
-  - name: 'Three corners sea beach resort,Marsa Alam'
-    id: a7bc3779-3bc5-4c51-9c1d-47e011837e30
-    type: content
   - name: Three corners Equinox resort
     id: efe60fb8-2c6c-47f2-80ec-a4a226954ad6
+    type: content
+  - name: 'Three corners sea beach resort,Marsa Alam'
+    id: a7bc3779-3bc5-4c51-9c1d-47e011837e30
     type: content
   - name: 'Three Corners Happy Life:'
     id: 7e2d538b-2df2-431a-ac52-fef90cda41df
@@ -56,6 +56,9 @@ navigation:
     type: content
   - name: 'Novotel Marsa Allam:'
     id: 04c264eb-7c64-4970-9423-2cedadae5241
+    type: content
+  - name: 'Three Corners Sunny beach,Hurghada:'
+    id: 0d14aa97-4856-4af7-b5cc-8a75a678ce67
     type: content
   - name: 'Labranda Royal Makady:'
     id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
@@ -89,9 +92,6 @@ navigation:
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
-  - name: 'Three Corners Sunny beach,Hurghada:'
-    id: 0d14aa97-4856-4af7-b5cc-8a75a678ce67
     type: content
 content: []
 github: true
