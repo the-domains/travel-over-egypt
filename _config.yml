@@ -54,11 +54,11 @@ navigation:
   - name: 'Three Corners Fairouz Plaza:'
     id: 97c3cb83-9392-4f83-9800-3388d365662a
     type: content
-  - name: 'Novotel Marsa Allam:'
-    id: 04c264eb-7c64-4970-9423-2cedadae5241
-    type: content
   - name: 'Three Corners Sunny beach,Hurghada:'
     id: 0d14aa97-4856-4af7-b5cc-8a75a678ce67
+    type: content
+  - name: 'Novotel Marsa Allam:'
+    id: 04c264eb-7c64-4970-9423-2cedadae5241
     type: content
   - name: 'Labranda Royal Makady:'
     id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
