@@ -48,6 +48,9 @@ navigation:
   - name: Three corners Equinox resort
     id: efe60fb8-2c6c-47f2-80ec-a4a226954ad6
     type: content
+  - name: 'Three Corners Fairouz Plaza:'
+    id: 97c3cb83-9392-4f83-9800-3388d365662a
+    type: content
   - name: 'Three Corners Happy Life:'
     id: 7e2d538b-2df2-431a-ac52-fef90cda41df
     type: content
@@ -86,9 +89,6 @@ navigation:
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
-  - name: 'Three Corners Fairouz Plaza:'
-    id: 97c3cb83-9392-4f83-9800-3388d365662a
     type: content
 content: []
 github: true
