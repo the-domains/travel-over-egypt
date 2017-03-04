@@ -1,19 +1,33 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: ''
-datePublished: '2016-08-18T00:28:04.319Z'
-dateModified: '2016-08-18T00:27:53.789Z'
+title: 'Three corners sea beach resort,Marsa Alam:'
+datePublished: '2017-03-04T23:39:54.485Z'
+dateModified: '2017-03-04T23:39:45.911Z'
 publisher: {}
 author: []
 inFeed: true
-description: Three corners sea beach resort Marsa Allam
+hasPage: true
+description: >-
+  The Three Corners Sea Beach Resort faces directly the Red Sea with a large
+  beach-front location in Marsa Alam.It features an extensive outdoor pool and a
+  well-equipped gym. The hotel provides an airport shuttle service. Rooms at the
+  Sea Beach Resort offer modern furnishings and up-to-date facilities, such as
+  air conditioning and a TV set. They all have balconies or terraces and include
+  private bathrooms. Guests can enjoy underwater tours,
 via: {}
-starred: false
+starred: true
+datePublishedOriginal: '2016-10-20T00:46:49.098Z'
 sourcePath: _posts/2016-08-05-three-corners-sea-beach-resort-marsa-allam.md
-_type: Blurb
+url: three-corners-sea-beach-resort-marsa-alam/index.html
+_type: Article
 
 ---
+## **Three corners sea beach resort,Marsa Alam:**
+
+The Three Corners Sea Beach Resort faces directly the Red Sea with a large beach-front location in Marsa Alam.It features an extensive outdoor pool and a well-equipped gym. The hotel provides an airport shuttle service.   
+Rooms at the Sea Beach Resort offer modern furnishings and up-to-date facilities, such as air conditioning and a TV set. They all have balconies or terraces and include private bathrooms.   
+Guests can enjoy underwater tours,
+
+Marsa Alam International Airport is located less than a 5-minute drive from the The Three Corners Sea Beach Resort. The hotel provides taxi service.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d778db-29eb-461a-8743-6824f9049d22.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04030196-c9f0-4905-8ecd-faf1279bd229.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae18a0f7-ff1a-472c-8ee8-aef5d734dbe9.jpg)
@@ -26,4 +40,4 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2a1783a-b714-40c3-8489-014a0847bece.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d087cf6-ff1c-4d83-a966-089e92ac4bd9.jpg)
 
-Three corners sea beach resort Marsa Allam
+---
