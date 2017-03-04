@@ -93,5 +93,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Three Corners Royal Star,Hurghada:'
+    id: 6106e9a1-291f-4c30-b4d3-2a5a35e5e8a7
+    type: content
 content: []
 github: true
