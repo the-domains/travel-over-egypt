@@ -96,5 +96,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Three Corners Rihanna Resort,El-Gouna:'
+    id: 6ecc80c3-0f83-414c-be01-8290473fe69c
+    type: content
 content: []
 github: true
