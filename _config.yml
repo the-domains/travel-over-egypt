@@ -89,6 +89,9 @@ navigation:
   - name: 'Tia Heights resort,Hurghada'
     id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
     type: content
+  - name: 'Amwaj Oyoun Resort & Spa,Sharm El Sheikh:'
+    id: d4d3dc61-9b54-4869-9eff-9fe0fe0ea46a
+    type: content
   - name: 'The Legend Old Cataract Hotel,Aswan:'
     id: cea4148b-4311-4fcf-8f21-c72f89a2acfa
     type: content
@@ -118,9 +121,6 @@ navigation:
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
-  - name: 'Amwaj Oyoun Resort & Spa,Sharm El Sheikh:'
-    id: d4d3dc61-9b54-4869-9eff-9fe0fe0ea46a
     type: content
 content: []
 github: true
