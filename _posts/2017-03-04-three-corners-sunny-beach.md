@@ -1,6 +1,7 @@
 ---
-title: 'Three Corners Sunny beach:'
-dateModified: '2017-03-04T13:10:25.216Z'
+title: 'Three Corners Sunny beach,Hurghada:'
+datePublished: '2017-03-05T01:00:47.985Z'
+dateModified: '2017-03-05T01:00:44.546Z'
 publisher: {}
 author: []
 inFeed: true
@@ -19,7 +20,6 @@ description: >-
   away and the center of Hurghada, with its rich culture and lively nightlife,
   is 10 minutes from the resort.
 via: {}
-datePublished: '2017-03-04T13:10:34.372Z'
 starred: false
 datePublishedOriginal: '2017-03-04T13:10:34.372Z'
 sourcePath: _posts/2017-03-04-three-corners-sunny-beach.md
@@ -28,7 +28,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# Three Corners Sunny beach:
+# Three Corners Sunny beach,Hurghada:
 
 The Sunny Beach is a 4-star all-inclusive resort enjoying a prime beachfront location in Hurghada. With its variety of pools, it offers a diving school and a water park for children.   
 All rooms at the Three Corners Sunny Beach Resort come with private balconies, which overlook the gardens, pools or the Red Sea. Each has a minibar and satellite TV.   
