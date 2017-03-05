@@ -42,7 +42,7 @@ navigation:
   - name: 'The best air ticket prices from Qtarairway '
     url: 'http://qatarairways.go2cloud.org/aff_c?offer_id=2&aff_id=4005'
     type: external
-  - name: 'Three corners sea beach resort,Marsa Alam'
+  - name: 'Three corners sea beach resort,Marsa Alam:'
     id: a7bc3779-3bc5-4c51-9c1d-47e011837e30
     type: content
   - name: 'Three Corners Happy Life,Marsa Allam:'
