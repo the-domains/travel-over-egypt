@@ -1,25 +1,25 @@
 ---
-title: 'Three Corners Fairouz Plaza:'
-dateModified: '2017-03-04T11:51:37.530Z'
+title: 'Three Corners Fairouz Plaza,Marsa Allam:'
+datePublished: '2017-03-05T00:59:45.213Z'
+dateModified: '2017-03-05T00:59:42.350Z'
 publisher: {}
 author: []
 inFeed: true
+hasPage: true
 description: >-
   Near the Port Ghalib International Marina, this exclusive resort enjoys
   amazing views of the Red Sea, and is perfect for those seeking sun, sea and
-  solitude.   Next to the new port of Ghalib, The Three Corners Fayrouz Plaza
+  solitude. Next to the new port of Ghalib, The Three Corners Fayrouz Plaza
   Beach Resort offers the most modern comforts and sports and fitness
-  facilities.   Facing the open sea, relax on the large, romantic and unspoiled
+  facilities. Facing the open sea, relax on the large, romantic and unspoiled
   beach or swim in one of Fayrouz Plaza Beach Resort's pools, which are heated
   in the winter. Children can play in the kids’ pool while adults unwind in the
-  outdoor whirlpool.   Take a short walk to the half mile-long beach area, where
+  outdoor whirlpool. Take a short walk to the half mile-long beach area, where
   you can enjoy snorkeling and admiring the coral reef. Afterwards, retreat to
-  your spacious room and enjoy the stunning view from your private balcony.   In
+  your spacious room and enjoy the stunning view from your private balcony. In
   the evening, indulge yourself with a gourmet dinner prepared with the finest
   ingredients by one of Three Corners' restaurants.
 via: {}
-datePublished: '2017-03-04T11:51:39.587Z'
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-04T11:51:39.587Z'
 sourcePath: _posts/2017-03-04-three-corners-fairouz-plaza.md
@@ -28,7 +28,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# Three Corners Fairouz Plaza:
+# Three Corners Fairouz Plaza,Marsa Allam:
 
 Near the Port Ghalib International Marina, this exclusive resort enjoys amazing views of the Red Sea, and is perfect for those seeking sun, sea and solitude.   
 Next to the new port of Ghalib, The Three Corners Fayrouz Plaza Beach Resort offers the most modern comforts and sports and fitness facilities.   
