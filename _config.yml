@@ -96,11 +96,11 @@ navigation:
   - name: 'The temples of Abu Simbel. '
     id: b26103f8-693c-4c69-afbc-2baabecb0972
     type: content
-  - name: 'About us..... '
-    id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
   - name: 'Testimonial video about our services:'
     id: fbff993d-0b5f-4c5a-899c-1d77d1f6e875
+    type: content
+  - name: 'About us..... '
+    id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
 content: []
 github: true
