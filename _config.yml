@@ -99,5 +99,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Testimonial video about our services:'
+    id: fbff993d-0b5f-4c5a-899c-1d77d1f6e875
+    type: content
 content: []
 github: true
