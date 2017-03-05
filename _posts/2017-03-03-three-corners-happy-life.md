@@ -1,6 +1,7 @@
 ---
-title: 'Three Corners Happy Life:'
-dateModified: '2017-03-03T22:38:44.438Z'
+title: 'Three Corners Happy Life,Marsa Allam:'
+datePublished: '2017-03-05T00:52:48.296Z'
+dateModified: '2017-03-05T00:52:45.435Z'
 publisher: {}
 author: []
 inFeed: true
@@ -8,23 +9,22 @@ hasPage: true
 description: >-
   The Three Corners Happy Life Resort is located on the west coast of the Red
   Sea, 37 km north of Marsa Alam city. The Three Corners Happy Life Beach Resort
-  offers direct beach access.   The resort offers 300 rooms spread over a main
+  offers direct beach access. The resort offers 300 rooms spread over a main
   building and several low-rise buildings. The main building features the
   reception and a lobby, the main restaurant and one of the three available
-  bars. The Three Corners Happy Life Resort is all inclusive.   The meals are
+  bars. The Three Corners Happy Life Resort is all inclusive. The meals are
   served at the buffet main restaurant or in one of the two à la carte
   restaurants (dinner only). Happy Life Beach Resort also offers three bars
   where guests can enjoy their cocktails in- or outdoors. Note also the Shisha
-  Corner at the beach for the traditional aromatic shisha.   The spacious garden
+  Corner at the beach for the traditional aromatic shisha. The spacious garden
   area has 2 swimming pools (one heated in winter) with a poolside bar and a
-  built-in dive pool for lessons, a "lazy river" and 3 water slides.  The mini
+  built-in dive pool for lessons, a "lazy river" and 3 water slides. The mini
   club and a playground await the younger ones. Happy Life Resort offers
   facilities for all divers eager to explore the unspoiled diving sites, while
-  fabulous snorkeling can be enjoyed directly off the jetty.   The Three Corners
+  fabulous snorkeling can be enjoyed directly off the jetty. The Three Corners
   Happy Life Resort is just 37 km away from Marsa Alam City and 25 km from Marsa
   Alam Airport.
 via: {}
-datePublished: '2017-03-03T22:39:04.990Z'
 starred: false
 datePublishedOriginal: '2017-03-03T22:39:04.990Z'
 sourcePath: _posts/2017-03-03-three-corners-happy-life.md
@@ -33,7 +33,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# Three Corners Happy Life:
+# Three Corners Happy Life,Marsa Allam:
 
 The Three Corners Happy Life Resort is located on the west coast of the Red Sea, 37 km north of Marsa Alam city. The Three Corners Happy Life Beach Resort offers direct beach access.   
 The resort offers 300 rooms spread over a main building and several low-rise buildings. The main building features the reception and a lobby, the main restaurant and one of the three available bars. The Three Corners Happy Life Resort is all inclusive.   
