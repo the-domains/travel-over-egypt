@@ -119,5 +119,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Amwaj Oyoun Resort & Spa,Sharm El Sheikh:'
+    id: d4d3dc61-9b54-4869-9eff-9fe0fe0ea46a
+    type: content
 content: []
 github: true
