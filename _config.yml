@@ -102,17 +102,20 @@ navigation:
   - name: 'Hot air balloon ride,West Bank,Luxor:'
     id: 28c6f408-2ce0-40fa-8dda-4916c22212c6
     type: content
-  - name: Queen Nefertari
-    id: e3d5f486-38c2-4831-9fa2-c7dac5bc3743
-    type: content
   - name: 'The temples of Abu Simbel. '
     id: b26103f8-693c-4c69-afbc-2baabecb0972
+    type: content
+  - name: Queen Nefertari
+    id: e3d5f486-38c2-4831-9fa2-c7dac5bc3743
     type: content
   - name: 'Testimonial video about our services:'
     id: fbff993d-0b5f-4c5a-899c-1d77d1f6e875
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
+    type: content
+  - name: 'Three Corners Ocean View,El-Gouna,Hurghada:'
+    id: f58c2953-a2fe-45d6-8e33-bdd8552c80d8
     type: content
 content: []
 github: true
