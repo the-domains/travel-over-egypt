@@ -93,6 +93,9 @@ navigation:
   - name: 'Tour Packages:'
     id: 53463c40-5c5c-44ae-bba3-28293ed9401d
     type: content
+  - name: 'Hot air balloon ride,West Bank,Luxor:'
+    id: 28c6f408-2ce0-40fa-8dda-4916c22212c6
+    type: content
   - name: Queen Nefertari
     id: e3d5f486-38c2-4831-9fa2-c7dac5bc3743
     type: content
@@ -104,9 +107,6 @@ navigation:
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
-  - name: 'Hot air balloon ride,West Bank,Luxor:'
-    id: 28c6f408-2ce0-40fa-8dda-4916c22212c6
     type: content
 content: []
 github: true
