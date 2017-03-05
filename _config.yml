@@ -69,6 +69,9 @@ navigation:
   - name: 'Three Corners Rihanna Resort,El-Gouna:'
     id: 6ecc80c3-0f83-414c-be01-8290473fe69c
     type: content
+  - name: 'Three Corners Rihanna Inn,El-Gouna,Hurghada:'
+    id: bc38787e-4851-47f3-976e-c6e53699756b
+    type: content
   - name: 'Labranda Royal Makady,Hurghada:'
     id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
     type: content
@@ -110,9 +113,6 @@ navigation:
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
-  - name: 'Three Corners Rihanna Inn,El-Gouna,Hurghada:'
-    id: bc38787e-4851-47f3-976e-c6e53699756b
     type: content
 content: []
 github: true
