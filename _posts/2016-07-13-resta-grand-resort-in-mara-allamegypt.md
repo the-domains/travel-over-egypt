@@ -1,26 +1,36 @@
 ---
+title: 'Resta Grand,Marsa Allam:'
+datePublished: '2017-03-05T00:58:50.475Z'
+dateModified: '2017-03-05T00:58:30.113Z'
+publisher: {}
 author: []
-dateModified: '2016-07-14T00:48:39.423Z'
-datePublished: '2016-07-14T00:48:49.108Z'
-description: 'Resta grand resort in Mara Allam,Egypt.'
 inFeed: true
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c9f7468-c2ef-4b81-b9e4-eabd2f7e57fb.jpg
-title: ''
-starred: false
+hasPage: true
+description: >-
+  MarsaAlam,Along with a peaceful and picturesque location and a wealth of
+  recreational facilities,this 5-star resort in Marsa Alam offers warm Egyptian
+  hospitality. The beautifully presented Resta Grand Resort is surrounded by
+  landscaped grounds and a variety of water features. Guests can choose from a
+  variety of room types, from standard family rooms to superior rooms with king
+  beds. Each one is well-furnished with modern comforts and a private balcony.
+  Resta Grand Resort offers a variety of water sports and on-site recreational
+  facilities. The friendly staff team offers personalized service and can also
+  arrange for you to explore the surrounding areas during day trips. After an
+  exciting day, guests can relax around the pool with a drink of their choice
+  and soak up the Egyptian sun.
+via: {}
+starred: true
+datePublishedOriginal: '2016-10-04T17:22:10.776Z'
 sourcePath: _posts/2016-07-13-resta-grand-resort-in-mara-allamegypt.md
-_context: 'http://schema.org'
+url: resta-grand-resort-in-marsa-alam/index.html
 _type: Article
 
 ---
+# Resta Grand,Marsa Allam:
+
+MarsaAlam,Along with a peaceful and picturesque location and a wealth of recreational facilities,this 5-star resort in Marsa Alam offers warm Egyptian hospitality. The beautifully presented Resta Grand Resort is surrounded by landscaped grounds and a variety of water features. Guests can choose from a variety of room types, from standard family rooms to superior rooms with king beds. Each one is well-furnished with modern comforts and a private balcony. Resta Grand Resort offers a variety of water sports and on-site recreational facilities. The friendly staff team offers personalized service and can also arrange for you to explore the surrounding areas during day trips. After an exciting day, guests can relax around the pool with a drink of their choice and soak up the Egyptian sun.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f724262a-8c38-4503-90fe-67755347bec7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/413ce0d6-76ae-45a0-bb78-4a8021c7ac6e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ad4bd24-8546-44de-814f-b7307be6b9a1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6c4d847-8262-4895-8707-5050c9961040.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a5c653d-c25b-496e-a0d1-e72f7b1bf0ee.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134a6a33-1a97-492e-b82f-b6eff24bea1b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d619cdc-37c4-4387-856e-3bab0a99b423.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5bc6b79-3129-44c0-b688-ebb482b8fac8.jpg)
-
-Resta grand resort in Mara Allam,Egypt.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c9f7468-c2ef-4b81-b9e4-eabd2f7e57fb.jpg)
+
+---
