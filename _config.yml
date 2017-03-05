@@ -108,5 +108,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'The Legend Old Cataract Hotel,Aswan:'
+    id: cea4148b-4311-4fcf-8f21-c72f89a2acfa
+    type: content
 content: []
 github: true
