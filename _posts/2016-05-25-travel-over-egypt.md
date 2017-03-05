@@ -1,14 +1,14 @@
 ---
 title: 'The Egyptian Museum & Citadel of Saladin:'
-datePublished: '2017-03-05T02:13:07.270Z'
-dateModified: '2017-03-05T02:13:03.510Z'
+datePublished: '2017-03-05T02:13:34.886Z'
+dateModified: '2017-03-05T02:13:33.451Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: >-
-  the Egyptian Museum nearby Tahrir square,where exhibited  the master piece
-  from all over Egypt,the master piecea of young kids Tutankamoun and from
+  the Egyptian Museum nearby Tahrir square,where exhibited the master piece from
+  all over Egypt,the master piecea of young king Tutankamoun and from
   prehistoric period throughout Pharaonic period and then Greco-Roman times,then
   you can visit the Citadel of Saladin,the Alabaster Mosque of Mohammed
   Ali,Jawhara palace,military museum and so many other attractions.
@@ -22,7 +22,7 @@ _type: Article
 ---
 # The Egyptian Museum & Citadel of Saladin:
 
-the Egyptian Museum nearby Tahrir square,where exhibited the master piece from all over Egypt,the master piecea of young kids Tutankamoun and from prehistoric period throughout Pharaonic period and then Greco-Roman times,then you can visit the Citadel of Saladin,the Alabaster Mosque of Mohammed Ali,Jawhara palace,military museum and so many other attractions.
+the Egyptian Museum nearby Tahrir square,where exhibited the master piece from all over Egypt,the master piecea of young king Tutankamoun and from prehistoric period throughout Pharaonic period and then Greco-Roman times,then you can visit the Citadel of Saladin,the Alabaster Mosque of Mohammed Ali,Jawhara palace,military museum and so many other attractions.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/195052b5-36c5-4599-8c75-7945f4a4e3b4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba008650-def5-482d-b5cf-069e49b569c8.jpg)
 
