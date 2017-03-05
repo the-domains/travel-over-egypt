@@ -1,6 +1,7 @@
 ---
-title: 'Labranda Club Makady:'
-dateModified: '2017-03-03T21:53:49.971Z'
+title: 'Labranda Club Makady,Hurghada:'
+datePublished: '2017-03-05T01:02:56.659Z'
+dateModified: '2017-03-05T01:02:53.812Z'
 publisher: {}
 author: []
 inFeed: true
@@ -18,7 +19,6 @@ description: >-
   visit the fitness centre. Other on-site leisure activities include billiards
   and table tennis.
 via: {}
-datePublished: '2017-03-03T21:53:54.320Z'
 starred: false
 datePublishedOriginal: '2017-03-03T21:53:54.320Z'
 sourcePath: _posts/2017-03-03-labranda-club-makady.md
@@ -27,7 +27,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# Labranda Club Makady:
+# Labranda Club Makady,Hurghada:
 
 Situated on a private beach in Makadi Bay, this 4-star resort features a lagoon-style outdoor pool with sun-lounger terrace. It offers spacious guestrooms with balconies and is only 25 km from Hurghada Airport.   
 Rooms at the LABRANDA Club Makadi have modern furnishings and private bathrooms. They come equipped with air condition, satellite TV and a minibar. Some rooms overlook the pool or the Red Sea.   
