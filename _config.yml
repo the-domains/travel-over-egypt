@@ -105,5 +105,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Hot air balloon ride,West Bank,Luxor:'
+    id: 28c6f408-2ce0-40fa-8dda-4916c22212c6
+    type: content
 content: []
 github: true
