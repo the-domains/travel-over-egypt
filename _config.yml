@@ -111,5 +111,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Three Corners Rihanna Inn,El-Gouna,Hurghada:'
+    id: bc38787e-4851-47f3-976e-c6e53699756b
+    type: content
 content: []
 github: true
