@@ -102,5 +102,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Resta Grand Resort,Marsa Allam:'
+    id: feecb6ab-0b6d-4439-b1d2-5c8af4b9be12
+    type: content
 content: []
 github: true
