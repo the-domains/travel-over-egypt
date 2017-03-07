@@ -1,7 +1,7 @@
 ---
-title: 'Three corners sea beach resort,Marsa Alam:'
-datePublished: '2017-03-07T08:14:18.659Z'
-dateModified: '2017-03-07T08:14:14.944Z'
+title: 'Three corners sea beach resort,Marsa Allam:'
+datePublished: '2017-03-07T08:19:19.416Z'
+dateModified: '2017-03-07T08:19:17.130Z'
 publisher: {}
 author: []
 inFeed: true
@@ -21,7 +21,7 @@ url: three-corners-sea-beach-resort-marsa-alam/index.html
 _type: Article
 
 ---
-## **Three corners sea beach resort,Marsa Alam:**
+## **Three corners sea beach resort,Marsa Allam:**
 
 The Three Corners Sea Beach Resort faces directly the Red Sea with a large beach-front location in Marsa Alam.It features an extensive outdoor pool and a well-equipped gym. The hotel provides an airport shuttle service.   
 Rooms at the Sea Beach Resort offer modern furnishings and up-to-date facilities, such as air conditioning and a TV set. They all have balconies or terraces and include private bathrooms.   
