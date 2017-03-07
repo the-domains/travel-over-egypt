@@ -1,7 +1,7 @@
 ---
 title: 'Three corners sea beach resort,Marsa Alam:'
-datePublished: '2017-03-04T23:39:54.485Z'
-dateModified: '2017-03-04T23:39:45.911Z'
+datePublished: '2017-03-07T08:14:18.659Z'
+dateModified: '2017-03-07T08:14:14.944Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,7 +12,7 @@ description: >-
   well-equipped gym. The hotel provides an airport shuttle service. Rooms at the
   Sea Beach Resort offer modern furnishings and up-to-date facilities, such as
   air conditioning and a TV set. They all have balconies or terraces and include
-  private bathrooms. Guests can enjoy underwater tours,
+  private bathrooms. Guests can enjoy underwater tours for extra charges,
 via: {}
 starred: true
 datePublishedOriginal: '2016-10-20T00:46:49.098Z'
@@ -25,9 +25,9 @@ _type: Article
 
 The Three Corners Sea Beach Resort faces directly the Red Sea with a large beach-front location in Marsa Alam.It features an extensive outdoor pool and a well-equipped gym. The hotel provides an airport shuttle service.   
 Rooms at the Sea Beach Resort offer modern furnishings and up-to-date facilities, such as air conditioning and a TV set. They all have balconies or terraces and include private bathrooms.   
-Guests can enjoy underwater tours,
+Guests can enjoy underwater tours for extra charges,
 
-Marsa Alam International Airport is located less than a 5-minute drive from the The Three Corners Sea Beach Resort. The hotel provides taxi service.
+Marsa Alam International Airport is located less than a 5-minute drive from the The Three Corners Sea Beach Resort. The hotel provides taxi service for extra charges.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d778db-29eb-461a-8743-6824f9049d22.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04030196-c9f0-4905-8ecd-faf1279bd229.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae18a0f7-ff1a-472c-8ee8-aef5d734dbe9.jpg)
