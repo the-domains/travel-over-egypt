@@ -92,6 +92,9 @@ navigation:
   - name: 'Amwaj Oyoun Resort & Spa,Sharm El Sheikh:'
     id: d4d3dc61-9b54-4869-9eff-9fe0fe0ea46a
     type: content
+  - name: 'Sultan Garden Resort,Sharm El-Sheikh:'
+    id: 40fece79-100f-4f96-82c0-376554d82183
+    type: content
   - name: 'The Legend Old Cataract Hotel,Aswan:'
     id: cea4148b-4311-4fcf-8f21-c72f89a2acfa
     type: content
@@ -121,9 +124,6 @@ navigation:
     type: content
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
-    type: content
-  - name: 'Sultan Garden Resort,Sharm El-Sheikh:'
-    id: 40fece79-100f-4f96-82c0-376554d82183
     type: content
 content: []
 github: true
