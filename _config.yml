@@ -122,5 +122,8 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
+  - name: 'Sultan Garden Resort,Sharm El-Sheikh:'
+    id: 40fece79-100f-4f96-82c0-376554d82183
+    type: content
 content: []
 github: true
