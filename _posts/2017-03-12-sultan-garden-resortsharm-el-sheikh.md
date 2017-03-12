@@ -1,6 +1,7 @@
 ---
-title: 'Sultan Garden Resort,Sharm El-Sheikh:'
-dateModified: '2017-03-12T22:38:46.087Z'
+title: 'Sultan Gardens Resort,Sharm El-Sheikh:'
+datePublished: '2017-03-12T23:16:08.548Z'
+dateModified: '2017-03-12T23:16:04.862Z'
 publisher: {}
 author: []
 inFeed: true
@@ -24,7 +25,6 @@ description: >-
   International Airport is 6 km from the resort. A shuttle service is provided
   upon charge.
 via: {}
-datePublished: '2017-03-12T22:38:47.913Z'
 starred: false
 datePublishedOriginal: '2017-03-12T22:38:47.913Z'
 sourcePath: _posts/2017-03-12-sultan-garden-resortsharm-el-sheikh.md
@@ -33,7 +33,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# Sultan Garden Resort,Sharm El-Sheikh:
+# Sultan Gardens Resort,Sharm El-Sheikh:
 
 This 5-star resort features a private sandy beach with overwater decks on the Sharks Bay. It boasts 5 palm-framed freshwater pools offering full views of the Tiran Island. One of the pools is for adults only and offers an open air Jacuzzi and a swim-up bar.   
 5 restaurants are available at Sultan Gardens Resort, offering home-made pasta, Cajun cuisine and live cooking shows, the "House Of Spice" Indian restaurant. Freshly caught seafood can be enjoyed on the seafront terrace of the Sea Food Market.   
