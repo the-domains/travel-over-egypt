@@ -1,8 +1,21 @@
+layout_spectrum: 0.38441203833474674
+typography_spectrum: 0.31599818197908897
+color:
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+  brandStrength: 0.7479930328261476
+  lightness: 0.4821528417156954
+  saturation: 0.2544719041532625
+  rhythmicContrast: 0.5013375392363472
+coverPrefs:
+  filter: false
 name: 'http//:traveloveregypt.com '
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
-layout_spectrum: 0.8940469026760115
-typography_spectrum: 0.5069132497128431
 cta: {}
 analytics:
   facebook: www.facebook.com/traveloveregypt
@@ -13,17 +26,6 @@ opengraph:
   appId: 'traveloveregypt '
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
-color:
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  brandStrength: 0.1762378474262239
-  lightness: 0.30299579117188946
-  saturation: 0.3593283181535172
-  rhythmicContrast: 0.12104018753754103
 purpose:
   - type: contact
     label: Email us
@@ -39,25 +41,25 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: 'The best air ticket prices from Qtarairway,just press this link:'
-    url: 'http://qatarairways.go2cloud.org/aff_c?offer_id=2&aff_id=4005'
-    type: external
   - name: 'Three corners sea beach resort,Marsa Alam:'
     id: a7bc3779-3bc5-4c51-9c1d-47e011837e30
     type: content
-  - name: 'Three Corners Happy Life,Marsa Allam:'
+  - name: 'Three Corners Happy Life,Marsa Alam:'
     id: 7e2d538b-2df2-431a-ac52-fef90cda41df
     type: content
-  - name: 'Three corners Equinox Resort,Marsa Allam:'
+  - name: 'Three corners Equinox Resort,Marsa Alam:'
     id: efe60fb8-2c6c-47f2-80ec-a4a226954ad6
     type: content
-  - name: 'Three Corners Fairouz Plaza,Marsa Allam:'
+  - name: 'Three Corners Fairouz Plaza,Marsa Alam:'
     id: 97c3cb83-9392-4f83-9800-3388d365662a
     type: content
-  - name: 'Resta Grand Resort,Marsa Allam:'
+  - name: 'Habiba Calimera Beach Resort,Marsa Alam:'
+    id: 3f69b5c4-992b-4a46-bec8-f12e4a08653c
+    type: content
+  - name: 'Resta Grand Resort,Marsa Alam:'
     id: feecb6ab-0b6d-4439-b1d2-5c8af4b9be12
     type: content
-  - name: 'Novotel Marsa Allam:'
+  - name: 'Novotel Marsa Alam:'
     id: 04c264eb-7c64-4970-9423-2cedadae5241
     type: content
   - name: 'Three Corners Sunny beach,Hurghada:'
@@ -76,6 +78,9 @@ navigation:
       Three Corners Ocean View,El-Gouna,Hurghada:
       (Adults Only):
     id: f58c2953-a2fe-45d6-8e33-bdd8552c80d8
+    type: content
+  - name: 'Three Corneres Triton Empire resort,Hurghada:'
+    id: f15c8506-75cb-4e5e-9a81-f23602d77d45
     type: content
   - name: 'Labranda Royal Makady,Hurghada:'
     id: 1f46b6b7-da7b-4946-bb8c-998d87245d4d
@@ -125,5 +130,47 @@ navigation:
   - name: 'About us..... '
     id: 6746b321-5f93-42ac-8c34-20fb6c38f96b
     type: content
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0ecada-6873-417c-afeb-136c96d775b0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0ecada-6873-417c-afeb-136c96d775b0.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0ecada-6873-417c-afeb-136c96d775b0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0ecada-6873-417c-afeb-136c96d775b0.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
