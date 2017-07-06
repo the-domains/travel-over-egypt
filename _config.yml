@@ -49,6 +49,9 @@ navigation:
   - name: 'Resta Grand Resort,Marsa Alam:'
     id: feecb6ab-0b6d-4439-b1d2-5c8af4b9be12
     type: content
+  - name: 'Moon Resort,Marsa Alam:'
+    id: 9013e676-7adc-4bc1-8b75-cd99cfcf39be
+    type: content
   - name: 'Novotel Marsa Alam:'
     id: 04c264eb-7c64-4970-9423-2cedadae5241
     type: content
@@ -63,9 +66,6 @@ navigation:
     type: content
   - name: 'Three Corners Rihanna Inn,El-Gouna,Hurghada:'
     id: bc38787e-4851-47f3-976e-c6e53699756b
-    type: content
-  - name: 'Moon Resort,Marsa Alam:'
-    id: 9013e676-7adc-4bc1-8b75-cd99cfcf39be
     type: content
   - name: |-
       Three Corners Ocean View,El-Gouna,Hurghada:
