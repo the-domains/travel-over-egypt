@@ -1,6 +1,6 @@
 ---
 title: 'Moon resort,Marsa Alam:'
-dateModified: '2017-07-04T09:45:44.296Z'
+dateModified: '2017-07-06T08:58:45.014Z'
 publisher: {}
 author: []
 inFeed: true
@@ -8,10 +8,12 @@ description: >-
   Moon Resort Marsa Alam is located in Marsa Alam City. Guests can enjoy the
   on-site restaurant. Free private parking is available on site.
 via: {}
-datePublished: '2017-07-04T09:45:49.361Z'
+datePublished: '2017-07-06T08:58:45.921Z'
+sourcePath: _posts/2017-07-04-moon-resortmarsa-alam.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-04T09:45:49.361Z'
-sourcePath: _posts/2017-07-04-moon-resortmarsa-alam.md
+url: moon-resortmarsa-alam/index.html
 _type: Article
 _context: 'http://schema.org'
 
