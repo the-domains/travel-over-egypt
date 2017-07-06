@@ -64,6 +64,9 @@ navigation:
   - name: 'Three Corners Rihanna Inn,El-Gouna,Hurghada:'
     id: bc38787e-4851-47f3-976e-c6e53699756b
     type: content
+  - name: 'Moon Resort,Marsa Alam:'
+    id: 9013e676-7adc-4bc1-8b75-cd99cfcf39be
+    type: content
   - name: |-
       Three Corners Ocean View,El-Gouna,Hurghada:
       (Adults Only):
@@ -80,9 +83,6 @@ navigation:
     type: content
   - name: 'Labranda Club Makady,Hurghada:'
     id: 9292a177-9abc-4bc0-a9a7-fd324c8a2341
-    type: content
-  - name: 'Moon Resort,Marsa Alam:'
-    id: 9013e676-7adc-4bc1-8b75-cd99cfcf39be
     type: content
   - name: 'Tia Heights resort,Hurghada'
     id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
