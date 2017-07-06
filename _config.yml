@@ -81,6 +81,9 @@ navigation:
   - name: 'Labranda Club Makady,Hurghada:'
     id: 9292a177-9abc-4bc0-a9a7-fd324c8a2341
     type: content
+  - name: 'Moon Resort,Marsa Alam:'
+    id: 9013e676-7adc-4bc1-8b75-cd99cfcf39be
+    type: content
   - name: 'Tia Heights resort,Hurghada'
     id: e55ca1e9-0d2a-47d5-8cf2-1093755f6651
     type: content
@@ -101,9 +104,6 @@ navigation:
     type: content
   - name: 'Dahabiya Nile cruise:'
     id: 81275e91-0459-4458-85b0-4a13ad53a5df
-    type: content
-  - name: 'Moon Resort,Marsa Alam:'
-    id: 9013e676-7adc-4bc1-8b75-cd99cfcf39be
     type: content
   - name: 'Tour Packages:'
     id: 53463c40-5c5c-44ae-bba3-28293ed9401d
