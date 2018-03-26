@@ -1,7 +1,7 @@
 ---
-title: 'Resta Grand,Marsa Allam:'
-datePublished: '2017-03-05T00:58:50.475Z'
-dateModified: '2017-03-05T00:58:30.113Z'
+title: 'Jazz Resta Grand,Marsa Alam:'
+datePublished: '2018-03-26T23:45:10.921Z'
+dateModified: '2018-03-26T23:45:08.870Z'
 publisher: {}
 author: []
 inFeed: true
@@ -26,7 +26,7 @@ url: resta-grand-resort-in-marsa-alam/index.html
 _type: Article
 
 ---
-# Resta Grand,Marsa Allam:
+# Jazz Resta Grand,Marsa Alam:
 
 MarsaAlam,Along with a peaceful and picturesque location and a wealth of recreational facilities,this 5-star resort in Marsa Alam offers warm Egyptian hospitality. The beautifully presented Resta Grand Resort is surrounded by landscaped grounds and a variety of water features. Guests can choose from a variety of room types, from standard family rooms to superior rooms with king beds. Each one is well-furnished with modern comforts and a private balcony. Resta Grand Resort offers a variety of water sports and on-site recreational facilities. The friendly staff team offers personalized service and can also arrange for you to explore the surrounding areas during day trips. After an exciting day, guests can relax around the pool with a drink of their choice and soak up the Egyptian sun.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f724262a-8c38-4503-90fe-67755347bec7.jpg)
