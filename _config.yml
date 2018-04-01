@@ -1,5 +1,5 @@
-layout_spectrum: 0.6778387782922808
-typography_spectrum: 0.5732759594758695
+layout_spectrum: 0.1808845005465653
+typography_spectrum: 0.5802611878669203
 color:
   brandColors:
     - '#000000'
@@ -7,10 +7,10 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  brandStrength: 0.7671225366370734
-  lightness: 0.5553585461124151
-  saturation: 0.9660793037231237
-  rhythmicContrast: 0.6448297625519152
+  brandStrength: 0.5531495622409932
+  lightness: 0.49310060898727265
+  saturation: 0.3320571522792746
+  rhythmicContrast: 0.06209847949030302
 coverPrefs:
   filter: false
 name: 'http//:traveloveregypt.com '
