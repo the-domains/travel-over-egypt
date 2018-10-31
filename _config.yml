@@ -1,5 +1,18 @@
+name: 'http//:traveloveregypt.com '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
 layout_spectrum: 0.20590895520209676
 typography_spectrum: 0.38319867275682934
+cta: {}
+analytics:
+  facebook: '460623131057772'
+  google: UA-80814309-1
+  twitter: ''
+opengraph:
+  type: ''
+  appId: 'traveloveregypt '
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
 color:
   brandColors:
     - '#2E0927'
@@ -11,19 +24,6 @@ color:
   lightness: 0.9847613124081883
   saturation: 0.5561625713911277
   rhythmicContrast: 0.12370417906911951
-name: 'http//:traveloveregypt.com '
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f0b57f-e905-4e23-b037-010990210ce1.jpg
-cta: {}
-analytics:
-  facebook: '460623131057772'
-  google: UA-80814309-1
-  twitter: ''
-opengraph:
-  type: ''
-  appId: 'traveloveregypt '
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ba5e28-5d52-4293-b808-9c0e9148ee45.jpg
 purpose:
   - type: contact
     label: Email us
@@ -80,7 +80,7 @@ navigation:
       (Adults Only):
     id: f58c2953-a2fe-45d6-8e33-bdd8552c80d8
     type: content
-  - name: 'Three Corneres Triton Empire resort,Hurghada:'
+  - name: 'Triton Empire resort,Hurghada:'
     id: f15c8506-75cb-4e5e-9a81-f23602d77d45
     type: content
   - name: 'Labranda Royal Makady,Hurghada:'
