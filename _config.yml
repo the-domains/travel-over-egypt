@@ -28,9 +28,6 @@ purpose:
   - type: contact
     label: Email us
     url: 'mailto:info@traveloveregypt.com'
-  - type: contact
-    label: 'Call us:+201100542030'
-    url: 'tel:+201100542030'
 title: TRAVEL OVER EGYPT
 description: 'Tours,accommodation all over Egypt & beyond '
 author:
